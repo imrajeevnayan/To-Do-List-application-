@@ -135,7 +135,7 @@ No API reference is available for this project, as it is a static website.
 **👤 Author**
 ------------
 
-* [Your Name]
+* [RAJEEV NAYAN]
 
 **📝 License**
 --------------
